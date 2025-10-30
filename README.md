@@ -7,7 +7,7 @@ The website showcases my personal profile, projects, skills, and contact informa
 ---
 
 ## 🔗 Links
-- **🌍 Portfolio Website:** [Click Here](https://moondayrain.github.io/portfolio)  
+- **🌍 Portfolio Website:** [Click Here](https://moondayrain.github.io/Portfolio/)  
 - **🎨 Figma Design:** [Click Here](https://www.figma.com/design/9Htq8z3a4rcSvhrwlsQ8hQ/Portfolio-Design--Community---Copy-?node-id=0-1&t=fAxUMqUfQdynNlOZ-1)
 
 ---
