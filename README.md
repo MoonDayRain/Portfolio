@@ -68,7 +68,7 @@ portfolio-website/
 │
 ├── index.html
 ├── style.css
-├── images/
+├── Images/
 │   ├── mechanic.png
 │   ├── bmw.png
 │   └── dashboard.jpg
@@ -85,10 +85,10 @@ portfolio-website/
 ## 📸 Screenshots
 
 ### Figma
-![Figma Screenshot](images/Figma-view.png)
+![Figma Screenshot](Images/Figma-view.png)
 
 ### Website
-![Website Screenshot](images/Website-view.png)
+![Website Screenshot](Images/Website-view.png)
 
 ---
 
